@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cors-anywhere": "^0.4.4"
+    "cors-anywhere": "^0.4.4",
+        "serverless-http": "^3.2.0"
+
   }
 }
